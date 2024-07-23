@@ -1,7 +1,7 @@
 <h1 align="center"><span>✨</span>Hi 👋, I'm Apurva G Prajapati<span>✨</span></h1>
 <h3 align="center">A passionate Programming Learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naitikjpatel&label=Profile%20views&color=0e75b6&style=flat" alt="naitikjpatel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrajapatiApurva&label=Profile%20views&color=0e75b6&style=flat" alt="ApurvaPrajapati" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
