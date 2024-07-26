@@ -36,7 +36,6 @@
 <!-- </br> -->
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=PrajapatiApurva&show_icons=true&locale=en" alt="ApurvaPrajapati" height="200px" widhth="400px"/></p> -->
 <!-- </br> -->
-<p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PrajapatiApurva&hide_border=true&date_format=j%20M%5B%20Y%5D&background=%2CEB5454%2CEB5454" alt="GitHub Streak" /></a></p>
 
 <!--
 Here are some ideas to get you started:
